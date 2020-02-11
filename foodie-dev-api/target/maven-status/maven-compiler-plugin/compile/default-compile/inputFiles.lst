@@ -3,3 +3,5 @@
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/CorsConfig.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/Swagger2.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java
