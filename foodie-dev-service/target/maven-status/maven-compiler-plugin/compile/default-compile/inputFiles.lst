@@ -2,7 +2,9 @@
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/ItemService.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/UserService.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/CarouselServiceImpl.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/AddressService.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/AddressServiceImpl.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/ItemServiceImpl.java
