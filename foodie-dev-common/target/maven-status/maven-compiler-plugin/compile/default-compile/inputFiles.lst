@@ -3,9 +3,11 @@
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/org/n3r/idworker/utils/Utils.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/com/imooc/enums/OrderStatusEnum.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/org/n3r/idworker/DayCode.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/com/imooc/utils/MobileEmailUtils.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/org/n3r/idworker/utils/Props.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/com/imooc/enums/PayMethod.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/org/n3r/idworker/utils/IPv4Utils.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/com/imooc/utils/DesensitizationUtil.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-common/src/main/java/org/n3r/idworker/Id.java

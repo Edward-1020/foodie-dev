@@ -2,6 +2,7 @@ org/n3r/idworker/DayCode.class
 com/imooc/utils/JsonUtils.class
 org/n3r/idworker/strategy/DefaultRandomCodeStrategy.class
 org/n3r/idworker/strategy/DefaultWorkerIdStrategy$2.class
+com/imooc/enums/PayMethod.class
 org/n3r/idworker/utils/Ip.class
 com/imooc/utils/DesensitizationUtil.class
 com/imooc/utils/MobileEmailUtils.class
@@ -12,6 +13,7 @@ com/imooc/utils/DateUtil.class
 org/n3r/idworker/WorkerIdStrategy.class
 org/n3r/idworker/InvalidSystemClock.class
 com/imooc/enums/Sex.class
+com/imooc/enums/OrderStatusEnum.class
 org/n3r/idworker/Code.class
 org/n3r/idworker/utils/IPv4Utils.class
 org/n3r/idworker/strategy/DefaultRandomCodeStrategy$1.class

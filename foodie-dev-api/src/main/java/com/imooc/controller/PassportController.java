@@ -25,24 +25,7 @@ public class PassportController {
     @Autowired
     private UserService userService;
 
-    @ApiOperation(value = "用户名是否存在", notes = "用户名是否存在", httpMethod = "GET")
-    @GetMapping("/usernameIsExist")
-    public IMOOCJSONResult usernameIsExist(@RequestParam String username) {
 
-        // 1.判断用户名不能为空
-        if (StringUtils.isBlank(username)) {
-            return IMOOCJSONResult.errorMsg("用户名不能为空");
-        }
-
-        // 2.查找注册的用户名是否存在
-        boolean isExist = userService.queryUsernameIsExits(username);
-        if (isExist) {
-            return IMOOCJSONResult.errorMsg("用户名已经存在");
-        }
-
-        // 3. 请求成功，用户名没有重复
-        return IMOOCJSONResult.ok();
-    }
 
     @ApiOperation(value = "用户注册", notes = "用户注册", httpMethod = "POST")
     @PostMapping("/regist")
