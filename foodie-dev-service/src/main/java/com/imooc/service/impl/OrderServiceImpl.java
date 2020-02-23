@@ -47,7 +47,7 @@ public class OrderServiceImpl implements OrderService {
 
     @Transactional(propagation = Propagation.REQUIRED)
     @Override
-    public String createOrder(SubmitOrderBO submitOrderBO) {
+    public OrderVO createOrder(SubmitOrderBO submitOrderBO) {
 
         String userId = submitOrderBO.getUserId();
         String addressId = submitOrderBO.getAddressId();
@@ -147,6 +147,24 @@ public class OrderServiceImpl implements OrderService {
         orderVO.setOrderId(orderId);
         orderVO.setMerchantOrdersVO(merchantOrdersVO);
 
-        return orderId;
+        return orderVO;
+    }
+
+    @Transactional(propagation = Propagation.REQUIRED)
+    @Override
+    public void updateOrderStatus(String orderId, Integer orderStatus) {
+
+        OrderStatus paidStatus = new OrderStatus();
+        paidStatus.setOrderId(orderId);
+        paidStatus.setOrderStatus(orderStatus);
+        paidStatus.setPayTime(new Date());
+
+        orderStatusMapper.updateByPrimaryKeySelective(paidStatus);
+    }
+
+    @Transactional(propagation = Propagation.SUPPORTS)
+    @Override
+    public OrderStatus queryOrderStatusInfo(String orderId) {
+        return orderStatusMapper.selectByPrimaryKey(orderId);
     }
 }

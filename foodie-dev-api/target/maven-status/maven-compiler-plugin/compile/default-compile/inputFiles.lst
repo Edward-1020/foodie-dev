@@ -2,10 +2,12 @@
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/BaseController.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/StuFooController.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/Application.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/OrdersController.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/WebMvcConfig.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/AddressController.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/ItemsController.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/CorsConfig.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/Swagger2.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java
-/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java
-/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java
