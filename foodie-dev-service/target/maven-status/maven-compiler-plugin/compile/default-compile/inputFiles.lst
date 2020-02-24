@@ -8,7 +8,9 @@
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/UserService.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/AddressService.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/center/CenterUserServiceImpl.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java
+/Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/center/CenterUserService.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/StuService.java
 /Users/bjhl/Desktop/github_code/foodie-dev/foodie-dev-service/src/main/java/com/imooc/service/OrderService.java
